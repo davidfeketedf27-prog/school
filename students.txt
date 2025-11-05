@@ -1,0 +1,5 @@
+# students.txt
+# Format: name|grade1,grade2,grade3
+Tom|7.0,8.0,9.0,1.0
+Sara|8.5,7.0,9.0
+Paul|5.0

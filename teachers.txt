@@ -1,0 +1,5 @@
+# teachers.txt
+# Format: name|salary|classroom|subject1,subject2
+Lori|3000|Room A1|Biology
+Bela|3200|Room B1|Math,Physics
+Akos|3100|Room C2|Chemistry

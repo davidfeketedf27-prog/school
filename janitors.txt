@@ -1,0 +1,5 @@
+# janitors.txt
+# Format: name|salary
+Chad|1200
+Baba|1150
+Jaja|1100
